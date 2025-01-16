@@ -1,8 +1,7 @@
-C:\Users\wntjr\Desktop\Senier_Project\Srcs\imgui\imgui.cpp;C:\Users\wntjr\Desktop\Senier_Project\Srcs\imgui\examples\example_win32_directx12\Release\imgui.obj
-C:\Users\wntjr\Desktop\Senier_Project\Srcs\imgui\imgui_demo.cpp;C:\Users\wntjr\Desktop\Senier_Project\Srcs\imgui\examples\example_win32_directx12\Release\imgui_demo.obj
-C:\Users\wntjr\Desktop\Senier_Project\Srcs\imgui\imgui_draw.cpp;C:\Users\wntjr\Desktop\Senier_Project\Srcs\imgui\examples\example_win32_directx12\Release\imgui_draw.obj
-C:\Users\wntjr\Desktop\Senier_Project\Srcs\imgui\imgui_tables.cpp;C:\Users\wntjr\Desktop\Senier_Project\Srcs\imgui\examples\example_win32_directx12\Release\imgui_tables.obj
-C:\Users\wntjr\Desktop\Senier_Project\Srcs\imgui\imgui_widgets.cpp;C:\Users\wntjr\Desktop\Senier_Project\Srcs\imgui\examples\example_win32_directx12\Release\imgui_widgets.obj
-C:\Users\wntjr\Desktop\Senier_Project\Srcs\imgui\backends\imgui_impl_dx12.cpp;C:\Users\wntjr\Desktop\Senier_Project\Srcs\imgui\examples\example_win32_directx12\Release\imgui_impl_dx12.obj
-C:\Users\wntjr\Desktop\Senier_Project\Srcs\imgui\backends\imgui_impl_win32.cpp;C:\Users\wntjr\Desktop\Senier_Project\Srcs\imgui\examples\example_win32_directx12\Release\imgui_impl_win32.obj
-C:\Users\wntjr\Desktop\Senier_Project\Srcs\imgui\examples\example_win32_directx12\main.cpp;C:\Users\wntjr\Desktop\Senier_Project\Srcs\imgui\examples\example_win32_directx12\Release\main.obj
+C:\Users\wntjr\Desktop\test-diary\imgui\imgui.cpp;C:\Users\wntjr\Desktop\test-diary\imgui\examples\example_win32_directx12\Release\imgui.obj
+C:\Users\wntjr\Desktop\test-diary\imgui\imgui_draw.cpp;C:\Users\wntjr\Desktop\test-diary\imgui\examples\example_win32_directx12\Release\imgui_draw.obj
+C:\Users\wntjr\Desktop\test-diary\imgui\imgui_tables.cpp;C:\Users\wntjr\Desktop\test-diary\imgui\examples\example_win32_directx12\Release\imgui_tables.obj
+C:\Users\wntjr\Desktop\test-diary\imgui\imgui_widgets.cpp;C:\Users\wntjr\Desktop\test-diary\imgui\examples\example_win32_directx12\Release\imgui_widgets.obj
+C:\Users\wntjr\Desktop\test-diary\imgui\use\imgui_impl_dx12.cpp;C:\Users\wntjr\Desktop\test-diary\imgui\examples\example_win32_directx12\Release\imgui_impl_dx12.obj
+C:\Users\wntjr\Desktop\test-diary\imgui\use\imgui_impl_win32.cpp;C:\Users\wntjr\Desktop\test-diary\imgui\examples\example_win32_directx12\Release\imgui_impl_win32.obj
+C:\Users\wntjr\Desktop\test-diary\imgui\examples\example_win32_directx12\main.cpp;C:\Users\wntjr\Desktop\test-diary\imgui\examples\example_win32_directx12\Release\main.obj
