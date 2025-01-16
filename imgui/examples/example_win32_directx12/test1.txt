@@ -1,0 +1,12 @@
+hp: 606
+damage: 35
+def_degree: 54
+farring_speed: 38
+avoid_decision: 50
+attack_speed: 57
+speed: 42
+running_speed: 58
+key_merge: 1
+use_jump: 1
+shield: 2
+weapon: 4

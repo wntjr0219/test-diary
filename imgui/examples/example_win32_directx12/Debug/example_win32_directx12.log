@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\user\Desktop\imgui\examples\example_win32_directx12\main.cpp(1,1): warning C4828: 파일에 0x1a50 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\user\Desktop\imgui\examples\example_win32_directx12\main.cpp(1,1): warning C4828: 파일에 0x1a52 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\user\Desktop\imgui\examples\example_win32_directx12\main.cpp(1,1): warning C4828: 파일에 0x1a53 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\user\Desktop\imgui\examples\example_win32_directx12\main.cpp(1,1): warning C4828: 파일에 0x1a55 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\user\Desktop\imgui\examples\example_win32_directx12\main.cpp(1,1): warning C4828: 파일에 0x1a58 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\user\Desktop\imgui\examples\example_win32_directx12\main.cpp(121,10): warning C4189: 'show_demo_window': 지역 변수가 초기화되었으나 참조되지 않았습니다.
+C:\Users\user\Desktop\imgui\examples\example_win32_directx12\main.cpp(122,10): warning C4189: 'show_another_window': 지역 변수가 초기화되었으나 참조되지 않았습니다.
+  example_win32_directx12.vcxproj -> C:\Users\user\Desktop\imgui\examples\example_win32_directx12\Debug\example_win32_directx12.exe

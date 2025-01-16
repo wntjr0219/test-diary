@@ -1,0 +1,11 @@
+﻿  imgui_impl_dx12.cpp
+  imgui_impl_win32.cpp
+  main.cpp
+C:\Users\wntjr\Desktop\Senier_Project\Srcs\imgui\examples\example_win32_directx12\main.cpp(107,10): warning C4189: 'monster_load_window': 지역 변수가 초기화되었으나 참조되지 않았습니다.
+C:\Users\wntjr\Desktop\Senier_Project\Srcs\imgui\examples\example_win32_directx12\main.cpp(108,10): warning C4189: 'pattern_window': 지역 변수가 초기화되었으나 참조되지 않았습니다.
+  코드를 생성하고 있습니다.
+  9 of 1748 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    29 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  example_win32_directx12.vcxproj -> C:\Users\wntjr\Desktop\Senier_Project\Srcs\imgui\examples\example_win32_directx12\Release\example_win32_directx12.exe
